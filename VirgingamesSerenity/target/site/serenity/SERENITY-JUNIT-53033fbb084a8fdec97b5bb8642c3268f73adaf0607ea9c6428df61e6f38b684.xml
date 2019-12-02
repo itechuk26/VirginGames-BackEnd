@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.virgingames.gamesinfo.DateandTimeTest" skipped="0" tests="2" time="3.82" timestamp="2019-12-336 02:20:50"><testcase classname="com.virgingames.gamesinfo.DateandTimeTest" name="Verify Default Game Frequency is 300000"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.virgingames.gamesinfo.DateandTimeTest.verifyGameFrequency(DateandTimeTest.java:56)&#13;
+</system-err></testcase><testcase classname="com.virgingames.gamesinfo.DateandTimeTest" name="Verify Start Time is Greater than Future Time"/></testsuite>

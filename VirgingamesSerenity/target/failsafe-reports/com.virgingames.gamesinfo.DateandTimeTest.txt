@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.virgingames.gamesinfo.DateandTimeTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 7.968 s <<< FAILURE! - in com.virgingames.gamesinfo.DateandTimeTest
+verifyGameFrequency(com.virgingames.gamesinfo.DateandTimeTest)  Time elapsed: 3.59 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.virgingames.gamesinfo.DateandTimeTest.verifyGameFrequency(DateandTimeTest.java:56)
+
